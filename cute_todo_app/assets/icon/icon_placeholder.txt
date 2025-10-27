@@ -1,0 +1,30 @@
+Icon Placeholder
+
+Since we cannot create PNG files directly in code, you have a few options:
+
+**Quick Option - Use Default Icon for Now:**
+The flutter_launcher_icons package is installed and configured. When you create your icon:
+
+1. Create a 1024x1024 PNG image named "app_icon.png"
+2. Save it to: D:\DEV\Flutter To Do List\cute_todo_app\assets\icon\
+3. Run: flutter pub run flutter_launcher_icons
+4. Rebuild the app
+
+**Easiest Way to Create an Icon:**
+
+Use an online tool (no installation needed):
+- Go to https://icon.kitchen/
+- Choose a simple icon (like a checkmark or heart)
+- Select your app colors (Pink #FFB3BA background)
+- Download the 1024x1024 version
+- Save as "app_icon.png" in the assets/icon folder
+
+**Or use Windows Paint:**
+1. Open Paint (built into Windows)
+2. Create a new image: 1024 x 1024 pixels
+3. Fill background with pink (#FFB3BA)
+4. Add a simple shape/text in the center
+5. Save as "app_icon.png" in: D:\DEV\Flutter To Do List\cute_todo_app\assets\icon\
+
+**For now, let's use the Flutter default icon** until you create a custom one.
+I'll update the configuration to make it optional.
