@@ -8,17 +8,34 @@
 
 ## 📸 Screenshots
 
-### Login Screen
-![Screenshot_20251027_193831](https://github.com/user-attachments/assets/0618d7af-60ef-465c-801a-8fc0cc3d469e)
-
-### Home Screen with Categories
-![Screenshot_20251027_193805](https://github.com/user-attachments/assets/86c8ba8d-e6de-4bda-90eb-ee7cc35a7d1a)
-
-### Don't Forget Reminders
-![Screenshot_20251027_193816](https://github.com/user-attachments/assets/a98ef931-fd89-4e6b-ac54-e0068c66de58)
-
-### Alarm Notification
-![Screenshot_20251027_193824](https://github.com/user-attachments/assets/19dc7d6c-c91e-4c06-8f16-e348adb1f3a7)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/0618d7af-60ef-465c-801a-8fc0cc3d469e" width="300" alt="Login Screen">
+        <br>
+        <b>Login Screen</b>
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/86c8ba8d-e6de-4bda-90eb-ee7cc35a7d1a" width="300" alt="Home Screen">
+        <br>
+        <b>Home Screen with Categories</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/a98ef931-fd89-4e6b-ac54-e0068c66de58" width="300" alt="Reminders">
+        <br>
+        <b>Don't Forget Reminders</b>
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/19dc7d6c-c91e-4c06-8f16-e348adb1f3a7" width="300" alt="Notification">
+        <br>
+        <b>Alarm Notification</b>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
