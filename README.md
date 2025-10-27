@@ -1,4 +1,4 @@
-# 📝 Cute To-Do App
+# 📝 To-Do App
 
 A beautiful and feature-rich Flutter to-do list application with Firebase integration, Google Sign-In, and smart reminder notifications.
 
